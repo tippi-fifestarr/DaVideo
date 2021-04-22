@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/DaVideo/static/css/main.18de8aef.chunk.css",
+    "main.js": "/DaVideo/static/js/main.c5532f22.chunk.js",
+    "main.js.map": "/DaVideo/static/js/main.c5532f22.chunk.js.map",
+    "runtime-main.js": "/DaVideo/static/js/runtime-main.1cec2e1a.js",
+    "runtime-main.js.map": "/DaVideo/static/js/runtime-main.1cec2e1a.js.map",
+    "static/css/2.80dce9aa.chunk.css": "/DaVideo/static/css/2.80dce9aa.chunk.css",
+    "static/js/2.8d3c4708.chunk.js": "/DaVideo/static/js/2.8d3c4708.chunk.js",
+    "static/js/2.8d3c4708.chunk.js.map": "/DaVideo/static/js/2.8d3c4708.chunk.js.map",
+    "index.html": "/DaVideo/index.html",
+    "precache-manifest.bd4021ea7e162d44ba4b070ef5f01e85.js": "/DaVideo/precache-manifest.bd4021ea7e162d44ba4b070ef5f01e85.js",
+    "service-worker.js": "/DaVideo/service-worker.js",
+    "static/css/2.80dce9aa.chunk.css.map": "/DaVideo/static/css/2.80dce9aa.chunk.css.map",
+    "static/css/main.18de8aef.chunk.css.map": "/DaVideo/static/css/main.18de8aef.chunk.css.map",
+    "static/js/2.8d3c4708.chunk.js.LICENSE.txt": "/DaVideo/static/js/2.8d3c4708.chunk.js.LICENSE.txt",
+    "static/media/dvideo.png": "/DaVideo/static/media/dvideo.9e02a88e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1cec2e1a.js",
+    "static/css/2.80dce9aa.chunk.css",
+    "static/js/2.8d3c4708.chunk.js",
+    "static/css/main.18de8aef.chunk.css",
+    "static/js/main.c5532f22.chunk.js"
+  ]
+}
