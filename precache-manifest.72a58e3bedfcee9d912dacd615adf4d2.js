@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "64d385f087748e1f91cba1fa8688f563",
+    "revision": "e7a85ff4c5d79c32a6949ed0c4c78a7c",
     "url": "/DaVideo/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DaVideo/static/css/2.80dce9aa.chunk.css"
   },
   {
-    "revision": "f6bc1a4f8d9e7bda04d8",
+    "revision": "9627229468790beca54b",
     "url": "/DaVideo/static/css/main.18de8aef.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DaVideo/static/js/2.c30ab675.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f6bc1a4f8d9e7bda04d8",
-    "url": "/DaVideo/static/js/main.83524500.chunk.js"
+    "revision": "9627229468790beca54b",
+    "url": "/DaVideo/static/js/main.aef0b1bd.chunk.js"
   },
   {
     "revision": "2be0a7032215416018cf",

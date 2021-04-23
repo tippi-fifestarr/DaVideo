@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/DaVideo/static/css/main.18de8aef.chunk.css",
-    "main.js": "/DaVideo/static/js/main.83524500.chunk.js",
-    "main.js.map": "/DaVideo/static/js/main.83524500.chunk.js.map",
+    "main.js": "/DaVideo/static/js/main.aef0b1bd.chunk.js",
+    "main.js.map": "/DaVideo/static/js/main.aef0b1bd.chunk.js.map",
     "runtime-main.js": "/DaVideo/static/js/runtime-main.1cec2e1a.js",
     "runtime-main.js.map": "/DaVideo/static/js/runtime-main.1cec2e1a.js.map",
     "static/css/2.80dce9aa.chunk.css": "/DaVideo/static/css/2.80dce9aa.chunk.css",
     "static/js/2.c30ab675.chunk.js": "/DaVideo/static/js/2.c30ab675.chunk.js",
     "static/js/2.c30ab675.chunk.js.map": "/DaVideo/static/js/2.c30ab675.chunk.js.map",
     "index.html": "/DaVideo/index.html",
-    "precache-manifest.8ad175edc7c678065943cd51443dd7da.js": "/DaVideo/precache-manifest.8ad175edc7c678065943cd51443dd7da.js",
+    "precache-manifest.72a58e3bedfcee9d912dacd615adf4d2.js": "/DaVideo/precache-manifest.72a58e3bedfcee9d912dacd615adf4d2.js",
     "service-worker.js": "/DaVideo/service-worker.js",
     "static/css/2.80dce9aa.chunk.css.map": "/DaVideo/static/css/2.80dce9aa.chunk.css.map",
     "static/css/main.18de8aef.chunk.css.map": "/DaVideo/static/css/main.18de8aef.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.80dce9aa.chunk.css",
     "static/js/2.c30ab675.chunk.js",
     "static/css/main.18de8aef.chunk.css",
-    "static/js/main.83524500.chunk.js"
+    "static/js/main.aef0b1bd.chunk.js"
   ]
 }
